@@ -29,7 +29,7 @@ Para cada exemplo acima você pode adicionar uma caneta no seu baldinho.
 
 Você precisa ter um caminho para distribuir a carga cognitiva pelo seu código. Isso é o que, na minha opinião, deveria guiar tudo. E, se você parar para pensar, é isso que os livros tentam fazer não é? Alguns exemplos:
 
-* O DDD sugere você utiliar a tal linguagem ubíqua. Por que será que todos devem falar a mesma lingua dentro de um contexto de negócio?
+* O DDD sugere você utilizar a tal linguagem ubíqua. Por que será que todos devem falar a mesma lingua dentro de um contexto de negócio?
 * O mesmo DDD sugere diversos padrões que inclusive são bem aceitos e utilizados por toda a industria. Por que será que todo mundo usa Service?
 * Por que você quer que todo mundo use os padrões sugeridos pelo CleanCode?
 * Por que colocamos no nome das classes um sufixo referenciando o padrão que inspirou a criação dela?
